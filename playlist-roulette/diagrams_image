@@ -1,0 +1,8 @@
+digraph {
+	graph [fontcolor="#2D3436" fontname="Sans-Serif" fontsize=15 label="" nodesep=0.60 pad=2.0 rankdir=LR ranksep=0.75 splines=ortho]
+	node [fixedsize=true fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13 height=1.4 imagescale=true labelloc=b shape=box style=rounded width=1.4]
+	edge [color="#7B8894"]
+	"6c2393a8f3e34d799f5da5a4dcf72c2d" [label=Players height=1.9 image="/Users/adamlear/Desktop/portfolio/projects/my-diagrams/.venv/lib/python3.13/site-packages/resources/aws/general/users.png" shape=none]
+	b1b50fd270c34f0cacc827797f58bdb1 [label=Organizer height=1.9 image="/Users/adamlear/Desktop/portfolio/projects/my-diagrams/.venv/lib/python3.13/site-packages/resources/aws/general/user.png" shape=none]
+	"0b702ee27ca24201b7b264ea6c5549c1" [label="Websocket Gateway" height=1.9 image="/Users/adamlear/Desktop/portfolio/projects/my-diagrams/.venv/lib/python3.13/site-packages/resources/aws/network/api-gateway.png" shape=none]
+}

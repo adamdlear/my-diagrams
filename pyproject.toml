@@ -1,0 +1,9 @@
+[project]
+name = "my-diagrams"
+version = "0.1.0"
+description = "A repo for my diagrams"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "diagrams>=0.24.1",
+]
